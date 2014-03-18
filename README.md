@@ -1,3 +1,2 @@
-seng474
-=======
-TESTING123
+# data-mining-project
+### a Sails application
